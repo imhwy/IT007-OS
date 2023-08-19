@@ -1,0 +1,3 @@
+- Folder gồm: 2 file ảnh test case, 2 bộ input và output cho từng test case.
+- Đối với file input: Dòng 1 là số Process, cột 1 2 3 lần lượt là Process, Arrival Time, Burst Time.
+- Đối với file output: Dòng 1 là số Process, cột 1 2 3 4 lần lượt là Process, Waiting Time, Response Time, Turnaround Time. 
