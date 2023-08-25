@@ -21,8 +21,8 @@
 ### Clone and install
 clone:
 ```sh
-git clone https://github.com/imhwy/IT007-OS.git
-cd IT007-OS
+git clone https://github.com/imhwy/Operating-System-IT007.git
+cd Operating-System-IT007
 ```
 
 
